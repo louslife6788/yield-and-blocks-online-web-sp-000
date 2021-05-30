@@ -11,4 +11,4 @@ def yielding
 end
 
 
-def yielding 
+ yielding
